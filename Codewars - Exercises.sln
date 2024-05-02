@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cascading Subsets", "Cascad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove All The Marked Elements of a List", "Remove All The Marked Elements of a List\Remove All The Marked Elements of a List.csproj", "{319F1D77-8921-438E-AF3E-36845CAE045E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode the Morse code", "Decode the Morse code\Decode the Morse code.csproj", "{AE2760D0-66C3-48DF-8F81-D23692FABD86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decode the Morse code", "Decode the Morse code\Decode the Morse code.csproj", "{AE2760D0-66C3-48DF-8F81-D23692FABD86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How Many Numbers", "How Many Numbers\How Many Numbers.csproj", "{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How Many Numbers", "How Many Numbers\How Many Numbers.csproj", "{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find The Parity Outlier", "Find The Parity Outlier\Find The Parity Outlier.csproj", "{19E99889-20DD-47EF-A920-7CBDA3AEE450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
