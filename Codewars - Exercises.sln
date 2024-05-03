@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decode the Morse code", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How Many Numbers", "How Many Numbers\How Many Numbers.csproj", "{4F3D4B84-5F72-48BC-A4D0-E13B354D2C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find The Parity Outlier", "Find The Parity Outlier\Find The Parity Outlier.csproj", "{19E99889-20DD-47EF-A920-7CBDA3AEE450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find The Parity Outlier", "Find The Parity Outlier\Find The Parity Outlier.csproj", "{19E99889-20DD-47EF-A920-7CBDA3AEE450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the integer Partition", "Find the integer Partition\Find the integer Partition.csproj", "{5B29B782-19B9-42ED-9C28-745B125245EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E99889-20DD-47EF-A920-7CBDA3AEE450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B29B782-19B9-42ED-9C28-745B125245EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B29B782-19B9-42ED-9C28-745B125245EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B29B782-19B9-42ED-9C28-745B125245EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B29B782-19B9-42ED-9C28-745B125245EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
