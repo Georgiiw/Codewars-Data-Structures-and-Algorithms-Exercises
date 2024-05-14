@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum subarray sum", "Max
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect Pangram", "Detect Pangram\Detect Pangram.csproj", "{A3DB4839-F27E-419D-A919-E296D0144330}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT13", "ROT13\ROT13.csproj", "{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A3DB4839-F27E-419D-A919-E296D0144330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3DB4839-F27E-419D-A919-E296D0144330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3DB4839-F27E-419D-A919-E296D0144330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
