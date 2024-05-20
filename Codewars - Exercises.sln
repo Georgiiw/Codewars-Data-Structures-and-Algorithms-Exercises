@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect Pangram", "Detect Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ROT13", "ROT13\ROT13.csproj", "{84AF1B31-FA22-4A7B-B4A3-4C3118BC0580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pick Peaks", "Pick Peaks\Pick Peaks.csproj", "{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pick Peaks", "Pick Peaks\Pick Peaks.csproj", "{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe Checker", "Tic-Tac-Toe Checker\Tic-Tac-Toe Checker.csproj", "{F5581C0C-DBEB-4B29-A8E8-3DD640217246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
