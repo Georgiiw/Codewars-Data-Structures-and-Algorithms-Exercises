@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ROT13", "ROT13\ROT13.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pick Peaks", "Pick Peaks\Pick Peaks.csproj", "{1115D6D5-B4B8-4EF9-949E-EDA4E89798F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe Checker", "Tic-Tac-Toe Checker\Tic-Tac-Toe Checker.csproj", "{F5581C0C-DBEB-4B29-A8E8-3DD640217246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tic-Tac-Toe Checker", "Tic-Tac-Toe Checker\Tic-Tac-Toe Checker.csproj", "{F5581C0C-DBEB-4B29-A8E8-3DD640217246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find next higher number with same Bits (1's)", "Find next higher number with same Bits (1's)\Find next higher number with same Bits (1's).csproj", "{5C0379D3-A29F-419C-98E1-9C23DAA1A127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5581C0C-DBEB-4B29-A8E8-3DD640217246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0379D3-A29F-419C-98E1-9C23DAA1A127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0379D3-A29F-419C-98E1-9C23DAA1A127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0379D3-A29F-419C-98E1-9C23DAA1A127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0379D3-A29F-419C-98E1-9C23DAA1A127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
