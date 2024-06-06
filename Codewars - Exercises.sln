@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find next higher number wit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count IP Addresses", "Count IP Addresses\Count IP Addresses.csproj", "{069710EB-F182-4CD1-9AAA-EDB62DED4CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple number triangle", "Simple number triangle\Simple number triangle.csproj", "{017C47BB-8A64-42E7-8AFB-001657247008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple number triangle", "Simple number triangle\Simple number triangle.csproj", "{017C47BB-8A64-42E7-8AFB-001657247008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int32 to IPv4", "Int32 to IPv4\Int32 to IPv4.csproj", "{46886266-75D2-4DB4-93D0-EB251754E986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{017C47BB-8A64-42E7-8AFB-001657247008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017C47BB-8A64-42E7-8AFB-001657247008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017C47BB-8A64-42E7-8AFB-001657247008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46886266-75D2-4DB4-93D0-EB251754E986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46886266-75D2-4DB4-93D0-EB251754E986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46886266-75D2-4DB4-93D0-EB251754E986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46886266-75D2-4DB4-93D0-EB251754E986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
