@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Int32 to IPv4", "Int32 to I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Sextuplets", "Prime Sextuplets\Prime Sextuplets.csproj", "{71BBFFD7-95DF-495C-A807-2761105A08A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter of squares in a rectangle", "Perimeter of squares in a rectangle\Perimeter of squares in a rectangle.csproj", "{224E17BA-C84E-4871-AC43-98699930C0AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perimeter of squares in a rectangle", "Perimeter of squares in a rectangle\Perimeter of squares in a rectangle.csproj", "{224E17BA-C84E-4871-AC43-98699930C0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Extraction", "Range Extraction\Range Extraction.csproj", "{897DE9CA-56AB-408F-A98A-489683F805C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{224E17BA-C84E-4871-AC43-98699930C0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224E17BA-C84E-4871-AC43-98699930C0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224E17BA-C84E-4871-AC43-98699930C0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897DE9CA-56AB-408F-A98A-489683F805C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897DE9CA-56AB-408F-A98A-489683F805C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897DE9CA-56AB-408F-A98A-489683F805C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897DE9CA-56AB-408F-A98A-489683F805C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
