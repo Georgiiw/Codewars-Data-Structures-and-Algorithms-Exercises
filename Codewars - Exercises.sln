@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Sextuplets", "Prime S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perimeter of squares in a rectangle", "Perimeter of squares in a rectangle\Perimeter of squares in a rectangle.csproj", "{224E17BA-C84E-4871-AC43-98699930C0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Extraction", "Range Extraction\Range Extraction.csproj", "{897DE9CA-56AB-408F-A98A-489683F805C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Range Extraction", "Range Extraction\Range Extraction.csproj", "{897DE9CA-56AB-408F-A98A-489683F805C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "We are the Robots d[(0)(0)]b", "We are the Robots d[(0)(0)]b\We are the Robots d[(0)(0)]b.csproj", "{9298F701-1155-40D2-BCDE-7603C7D51D60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{897DE9CA-56AB-408F-A98A-489683F805C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{897DE9CA-56AB-408F-A98A-489683F805C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{897DE9CA-56AB-408F-A98A-489683F805C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9298F701-1155-40D2-BCDE-7603C7D51D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9298F701-1155-40D2-BCDE-7603C7D51D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9298F701-1155-40D2-BCDE-7603C7D51D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9298F701-1155-40D2-BCDE-7603C7D51D60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
